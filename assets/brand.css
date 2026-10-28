@@ -1,6 +1,6 @@
 /* =========================================================================
-   Diana Prime · funnel brand
-   Her feed: black blazer, soft lilac, warm neutral walls, clean sans captions.
+   Jada Foote · Scholar World funnel brand
+   Her feed: peach scholarship cards, brown suit, white bold caps on reels.
    Montserrat display + text.
    ========================================================================= */
 
@@ -18,18 +18,18 @@
 @font-face { font-family: "Montserrat"; src: url("fonts/montserrat-normal.woff2") format("woff2"); font-weight: 500 900; font-style: normal; font-display: swap; }
 
 :root {
-  --bg: #f6f2f5;
-  --bg-2: #ece4ec;
+  --bg: #fff6ef;
+  --bg-2: #ffe7d6;
   --surface: #ffffff;
-  --surface-2: #f1eaf1;
-  --ink: #1e1a22;
-  --muted: #675e6b;
-  --hair: rgba(30, 26, 34, 0.12);
-  --hair-soft: rgba(30, 26, 34, 0.06);
-  --accent: #1e1a22;          /* black blazer, CTA fills */
-  --accent-text: #7b4c94;     /* plum, accents on lilac-white */
-  --accent-ink: #f6f2f5;
-  --accent-soft: rgba(123, 76, 148, 0.12);
+  --surface-2: #fff0e5;
+  --ink: #2b1a12;
+  --muted: #6e5a4e;
+  --hair: rgba(43, 26, 18, 0.12);
+  --hair-soft: rgba(43, 26, 18, 0.06);
+  --accent: #8f4a22;          /* brown suit, CTA fills */
+  --accent-text: #a8552a;     /* warm brown on cream */
+  --accent-ink: #fff6ef;
+  --accent-soft: rgba(255, 182, 137, 0.35);
   --display: "Montserrat", "Inter", -apple-system, sans-serif;
   --impact: "Anton", "Bebas Neue", Impact, "Arial Narrow", sans-serif;
   --sans: "Montserrat", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
